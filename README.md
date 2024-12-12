@@ -40,7 +40,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/e-commerce-system.git
+git clone https://github.com/GN4-BBIT/GROUP-4/tree/778c1cc8060ba4ff557b84a2750bd3abc6c34eb2/E-commerce
 Navigate to the Project Directory:
 
 bash
