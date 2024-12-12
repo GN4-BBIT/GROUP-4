@@ -54,12 +54,7 @@ Open the terminal and navigate to the directory where your C++ files are located
 
 Compile the source code using the g++ compiler:
 
-bash
-Copy code
-g++ -o ecommerce_system main.cpp Admin.cpp Customer.cpp Product.cpp Order.cpp
-This will create an executable file called ecommerce_system.
 
-Ensure the files main.cpp, Admin.cpp, Customer.cpp, Product.cpp, and Order.cpp are present in the directory before compiling.
 
 Using Visual Studio:
 Open Visual Studio.
@@ -100,7 +95,6 @@ If any error occurs, the system will display an appropriate message and allow th
 Credits
 This project was developed as part of an Object-Oriented Programming assignment by Group 4 Group N BBIT. It demonstrates the use of key OOP principles and is designed for educational purposes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 
