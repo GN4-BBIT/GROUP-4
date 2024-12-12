@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733913975 source:c:\users\admin\desktop\c++  proj\e-commerce\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdexcept>
+	<iomanip>
+	<string>
+
