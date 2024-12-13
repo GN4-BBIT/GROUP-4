@@ -1,3 +1,17 @@
+
+1. Emmah Muchiri HDB212-0487/2023 
+2. Otieno Godwins Joel HDB212-2129/2023 
+3. Nellie Wangeci HDB212-2141/23 
+4. Winter olali HDB212-0529/2023 
+5. Mitchelle Wanga HDB212-0500/2023 
+6. Adelbert ogeto HDB212-0507/2023
+ 7. Willington kutar. HDB212-0482/2023
+ 8. Emmanuel Owiti HDB212-0505/2023
+ 9. Ramsley Odhiambo HDB212-0527/2023 
+10. Wills George HDB212-0517/2023 
+11. Dennis Omondi HDB212-0511/2023 
+12. Mike Clarence HDB212-2349/2023
+
 C++ Object-Oriented Programming System
 This project demonstrates the implementation of Object-Oriented Programming (OOP) concepts in C++ for a simple e-commerce system. The system includes functionalities such as product management, order creation, file I/O, exception handling, and user interaction through a command-line interface.
 
